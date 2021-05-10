@@ -1,0 +1,191 @@
+commit c8e901d8840f331d7bc2ddb79119ddd754c13eee
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon May 10 15:41:22 2021 -0700
+
+    [add] Updated gitignore
+
+commit 2dc61b7af097a8da83497fcbd9212f387a33d505
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon May 10 15:07:36 2021 -0700
+
+    [add] Added AWS integration
+
+commit 722130083ad5901b7e90f9aaa300077d06952d1b
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Sat May 8 15:06:26 2021 -0700
+
+    [add] Added new models
+
+commit e66488e5a2e9b081165e021ea5fcab7b3230dd57
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 22:00:43 2021 -0700
+
+    [add] Added sample mp3 for chopin
+
+commit f319b090f0b8c91e681c8c499a9d7ee020e65bd6
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 19:45:25 2021 -0700
+
+    [fix] Fixed bug
+
+commit 1026bd9b0edac51e17792a8b045691a4a2567ebb
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 19:39:32 2021 -0700
+
+    [add] Updated model
+
+commit e978af3e50f9f60b281d9a2ea9d7f28f1b89e2b6
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:52:18 2021 -0700
+
+    [add] Updated API to handle conversion of midi to mp3
+
+commit 2476667c556190b76d9003c081a058effa7d8042
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:38:52 2021 -0700
+
+    [fix] Fixed typo
+
+commit f91a3556605d99980f6720e11031692701cf2e3e
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:33:16 2021 -0700
+
+    [add] Testing conversion
+
+commit 1013f426010053a745b7191ca29c0d82c17abc74
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:28:34 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit 84a44cd773f19230d99897053c925cccd46fe52a
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:28:02 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit faa684c85da8e681320d4cc0affe1d5bb0a957c8
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:27:18 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit 37567a19e53874ca83b8710fccd6dc3bed42ac4c
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:25:31 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit 0d46042e44acd88391262d45dff1863dcef34838
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:23:39 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit 71ca71a97119983b0812651e1152e8ba80887ef9
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:19:05 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit 0fca83c73c62049c939551123268ff1203b198dc
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 17:18:33 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit b3df1320a6fbc2ee05148e9531fcfdfa6a5d71a8
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 16:58:59 2021 -0700
+
+    [fix] Fixed Dockerfile
+
+commit 0f1c46bcee6f72fc836a11c252915933b9ddd494
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Fri May 7 16:49:59 2021 -0700
+
+    [add] Added sample mp3 endpoint and new Dockerfile
+
+commit 1b402e956b205b2e679356c196cd9a3bdd304dc4
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Tue Apr 27 20:45:12 2021 -0700
+
+    [add] Updated model to add one more dense layer
+
+commit 100617b8afcb46d1d252e093be1f63bf9167a07c
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Tue Apr 27 20:33:40 2021 -0700
+
+    [add] New model
+
+commit debb6164dd9a34c3d2ca35fa6c6fc7a63f68e905
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 26 18:21:36 2021 -0700
+
+    [add] New Chopin model
+
+commit 0e877601afef5b279cd78d615c7391417e678b78
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 26 17:43:45 2021 -0700
+
+    [fix] Fixed scratch dir bug
+
+commit 6808933cbf803fe7ca3d9c4382823c81ab138c35
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 26 17:38:03 2021 -0700
+
+    [add] Added models and network objects
+
+commit 0b2682b652d7327b3a331d2afb039bcdc12de497
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 26 17:36:41 2021 -0700
+
+    [add] Added captain definition file
+
+commit 64db187873c8bfa557507a243d86c52a290a9904
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 26 17:31:08 2021 -0700
+
+    [add] updated code
+
+commit a0cddef34f9d8ee4fb22a0ab3e9f579c538c9218
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 19 14:23:08 2021 -0700
+
+    [add] Updated README
+
+commit 6a21a86259e53666a169b3f7c76f842f80ca4625
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 19 14:22:40 2021 -0700
+
+    [add] Updated README
+
+commit 6b1b64c46a8360976cd133167c7cd01eea870102
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 19 14:20:48 2021 -0700
+
+    [add] Updated README
+
+commit 5757638f875a7d8d3d996edaa8e0444278fb67ba
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 19 14:03:07 2021 -0700
+
+    [add] Added README
+
+commit feb6f83fcc97deac655eb3f97eb3ab4f207e88fa
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Mon Apr 19 11:03:43 2021 -0700
+
+    [add] Added README
+
+commit 9701f8dc201e8f9326269d02778fea56071bbad0
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Thu Mar 11 11:41:55 2021 -0500
+
+    [add] Updated init to include new models and improved structure
+
+commit 72d6dc490f97ec4bce3e6161bf4732978595acba
+Author: Andrey Novichkov <andrey.novichkov@gmail.com>
+Date:   Wed Mar 3 02:16:03 2021 -0800
+
+    [add] Initial Commit
