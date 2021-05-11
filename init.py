@@ -5,19 +5,20 @@ import os
 import boto3
 
 # Define Constants
+SUFFIX = "seqlen_40_2LSTM_1Attention_2Dense.hdf5"
 COMPOSERS = {
     'tchaikovsky': {
-        'model_fp': os.path.join('models', 'tchaikovsky.hdf5'),
+        'model_fp': os.path.join('models', f'tchaikovsky_{SUFFIX}'),
         'network_object_fp': os.path.join('network_objects', 'tchaikovsky_network_object.json'),
         'meta': '100seqlen2lstm1Attention2dense'
     },
     'rachmaninov': {
-        'model_fp': os.path.join('models', 'rachmaninov.hdf5'),
+        'model_fp': os.path.join('models', f'rachmaninov_{SUFFIX}'),
         'network_object_fp': os.path.join('network_objects', 'rachmaninov_network_object.json'),
         'meta': '100seqlen2lstm1Attention2dense'
     },
     'chopin': {
-        'model_fp': os.path.join('models', 'chopin.hdf5'),
+        'model_fp': os.path.join('models', f'chopin_{SUFFIX}'),
         'network_object_fp': os.path.join('network_objects', 'chopin_network_object.json'),
         'meta': '100seqlen2lstm1Attention2dense'
     }
