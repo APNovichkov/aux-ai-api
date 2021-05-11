@@ -82,6 +82,7 @@ def init_generators(composers):
 
 def _download_model(s3_bucket, s3_key):
     output_fp = os.path.join('models', os.path.basename(s3_key))
+    print(f"Downloading: s3://{s3_bucket}/{s3_key}")
     s3_client.download_file(s3_bucket, s3_key, output_fp)
     print(f'Downloaded {s3_key} to {output_fp}')
     return output_fp
