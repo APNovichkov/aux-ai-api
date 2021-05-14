@@ -11,7 +11,7 @@ Welcome to Aux.ai, both an web-based AI powered entertainment platform lets user
     <img src="docs/media/homepage1.png" alt="homepage"/>
 </div>
 <br>
-<p align="center"><a href="">Official Website</a></p>
+<p align="center"><a href="https://aux-ai.dev.novichkov.dev/">Official Website</a></p>
 <br>
 
 ## Table of Contents
@@ -57,7 +57,7 @@ The app is deployed at https://aux-ai.dev.novichkov.dev/ and the notebook code i
 
 ## Todo
 
-Visit the <b>Notion</b> link [here]() to view Aux-ai's feature/bug progress and summary of resources.
+Visit the <b>Notion</b> link [here](https://www.notion.so/Aux-ai-e06290086c764ebcb89dc5621e4d7d20) to view Aux-ai's feature/bug progress and summary of resources.
 
 ![Notion](/docs/media/notion.png)
 
