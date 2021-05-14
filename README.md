@@ -34,7 +34,7 @@ to numerically evaluate a model that is designed to be evaluated with hearing, s
    
 #### The Journey
 This project was started from a clean slate, as I had no prior experience with music generation, or the kinds of models that were used for this kind of project. 
-Luckily for me I found a lot of great resources that are linked in the <a href="">Notion Doc</a> for this project. I got access to some code samples that do encoding, model creation and decoding generated music as well as a huge database of MIDI files of all different kinds of music.
+Luckily for me I found a lot of great resources that are linked in the <a href="https://www.notion.so/Aux-ai-e06290086c764ebcb89dc5621e4d7d20">Notion Doc</a> for this project. I got access to some code samples that do encoding, model creation and decoding generated music as well as a huge database of MIDI files of all different kinds of music.
 I decided to focus on piano pieces of several composers and soon after zeroed in on Chopin, Rachmaninov and Tchaikovski as they had the most MIDI files to their names.   
 After a couple of days struggling to make the LSTM model predict good results, I fixed a bug in one of the code samples that I was using and the model has been able to generate mostly good music since then. Then came optimization, and I spend a good amount of weeks playing around with different model
 sizes and layers, as well as the sequence length of training data. While working on that, I started developing the React frontend and the Flask API endpoints.  
