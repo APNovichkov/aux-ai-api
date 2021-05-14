@@ -8,7 +8,7 @@ Welcome to Aux.ai, both an web-based AI powered entertainment platform lets user
 </p>
 <br>
 <div align="center">
-    <img src="docs/media/homepage.png" alt="homepage"/>
+    <img src="docs/media/homepage1.png" alt="homepage"/>
 </div>
 <br>
 <p align="center"><a href="">Official Website</a></p>
@@ -47,6 +47,10 @@ the browser using the <audio> html element. I then ran into the issue where my m
 #### Running the Application
 
 The app is deployed at https://aux-ai.dev.novichkov.dev/ and the notebook code is available under the /notebook directory in the project repo. Please visit the web app though if you want to see the AI in action.   
+
+<div align="center">
+    <img src="docs/media/homepage2.png" alt="homepage"/>
+</div>
 
 
 <a name="todo"/>
